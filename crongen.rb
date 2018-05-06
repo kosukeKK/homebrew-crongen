@@ -1,6 +1,6 @@
 require "formula"
 
-class crongen < Formula
+class Crongen < Formula
   homepage "https://github.com/kosukeKK/cronGenerator"
   url "https://github.com/mkosukeKK/cronGenerator/release/crongen.tar.gz"
   sha256 "89ce8700a548ed36b242dfe4301195c1293b062i"
